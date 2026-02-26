@@ -1,7 +1,7 @@
 ---
-description: Audit de securite complet d'une web app (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra). Genere un rapport avec severite et fix recommandes.
-argument-hint: <chemin du projet, ex: "/Users/victorgalli/Desktop/OMG VICKY/vicky-saas">
-allowed-tools: Bash, Read, Grep, Glob, Task, WebFetch, WebSearch
+description: "Audit de securite complet d'une web app (OWASP Top 10, CWE/CVE, headers, auth, paywall, infra). Genere un rapport avec severite et fix recommandes."
+argument-hint: "<chemin du projet>"
+allowed-tools: "Bash, Read, Grep, Glob, Task, WebFetch, WebSearch"
 ---
 
 ## Mission
